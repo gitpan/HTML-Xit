@@ -1,5 +1,10 @@
 Revision history for HTML-Xit
 
+0.02    2014-10-17
+
+    * add classes and hasClass methods
+    * add unit tests for class methods
+
 0.01    2014-10-16
-        
+
     * Initial Release
