@@ -1,5 +1,11 @@
 Revision history for HTML-Xit
 
+0.03    2014-11-08
+    * add find method
+    * add trimText method
+    * fix bug where undef was returned instead of empty $X
+    * update POD
+
 0.02    2014-10-17
 
     * add classes and hasClass methods
